@@ -16,6 +16,7 @@ public class Player : LivingEntity
         base.Start();
         controller = GetComponent<PlayerController>();
         gunController = GetComponent<GunController>();
+        xx
     }
 
     void Update()
