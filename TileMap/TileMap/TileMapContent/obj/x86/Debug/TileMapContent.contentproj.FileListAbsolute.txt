@@ -1,0 +1,2 @@
+D:\My Projects\C# Projects\TileMap\TileMap\TileMapContent\obj\x86\Debug\TileMapContent.contentprojResolveAssemblyReference.cache
+D:\My Projects\C# Projects\pc 2\TileMap\TileMap\TileMapContent\obj\x86\Debug\TileMapContent.contentprojResolveAssemblyReference.cache

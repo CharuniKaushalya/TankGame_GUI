@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Tile1.jpg</Source>
+      <Name>Tile1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Projects\C# Projects\pc 2\TileMap\TileMap\TileMap\bin\x86\Debug\Content\Tile1.xnb</Output>
+      <Time>2016-02-22T18:38:41.1267459+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Tile2.jpg</Source>
+      <Name>Tile2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Projects\C# Projects\pc 2\TileMap\TileMap\TileMap\bin\x86\Debug\Content\Tile2.xnb</Output>
+      <Time>2016-02-22T18:38:41.1367569+05:30</Time>
+    </Item>
+    <Item>
+      <Source>MulticolorTanks.png</Source>
+      <Name>MulticolorTanks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Projects\C# Projects\pc 2\TileMap\TileMap\TileMap\bin\x86\Debug\Content\MulticolorTanks.xnb</Output>
+      <Time>2016-02-23T13:25:58.5994769+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Tile3.jpg</Source>
+      <Name>Tile3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Projects\C# Projects\pc 2\TileMap\TileMap\TileMap\bin\x86\Debug\Content\Tile3.xnb</Output>
+      <Time>2016-02-23T15:41:56.4373899+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Tile4.jpg</Source>
+      <Name>Tile4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Projects\C# Projects\pc 2\TileMap\TileMap\TileMap\bin\x86\Debug\Content\Tile4.xnb</Output>
+      <Time>2016-02-23T15:41:56.45338+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Tile5.jpg</Source>
+      <Name>Tile5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Projects\C# Projects\pc 2\TileMap\TileMap\TileMap\bin\x86\Debug\Content\Tile5.xnb</Output>
+      <Time>2016-02-23T15:41:56.4603808+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Tile6.jpg</Source>
+      <Name>Tile6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Projects\C# Projects\pc 2\TileMap\TileMap\TileMap\bin\x86\Debug\Content\Tile6.xnb</Output>
+      <Time>2016-02-23T15:41:56.4663814+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Tile7.jpg</Source>
+      <Name>Tile7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Projects\C# Projects\pc 2\TileMap\TileMap\TileMap\bin\x86\Debug\Content\Tile7.xnb</Output>
+      <Time>2016-02-23T15:41:56.4863905+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Projects\C# Projects\pc 2\TileMap\TileMap\TileMap\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2016-02-23T14:28:34.9054571+05:30</Time>
+    </Item>
+    <Item>
+      <Source>PlayerBullet.png</Source>
+      <Name>PlayerBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Projects\C# Projects\pc 2\TileMap\TileMap\TileMap\bin\x86\Debug\Content\PlayerBullet.xnb</Output>
+      <Time>2016-02-28T16:54:47.884198+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{8A4752B9-65A2-4122-9117-3B5BB204DFEE}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\My Projects\C# Projects\pc 2\TileMap\TileMap\TileMapContent\</RootDirectory>
+      <LoggerRootDirectory>D:\My Projects\C# Projects\pc 2\TileMap\TileMap\TileMap\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\My Projects\C# Projects\pc 2\TileMap\TileMap\TileMap\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\My Projects\C# Projects\pc 2\TileMap\TileMap\TileMap\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-10-18T08:46:26.2995514+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
