@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathFindingSample", "PathFindingSample\PathFindingSample\PathFindingSample.csproj", "{1F7867B3-4D56-46B2-8387-FFC3EE1F8862}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PathFindingSampleContent", "PathFindingSample\PathFindingSampleContent\PathFindingSampleContent.contentproj", "{DA61A1CE-FFB4-40F9-8D43-3A710A7C1049}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F7867B3-4D56-46B2-8387-FFC3EE1F8862}.Debug|x86.ActiveCfg = Debug|x86
+		{1F7867B3-4D56-46B2-8387-FFC3EE1F8862}.Debug|x86.Build.0 = Debug|x86
+		{1F7867B3-4D56-46B2-8387-FFC3EE1F8862}.Release|x86.ActiveCfg = Release|x86
+		{1F7867B3-4D56-46B2-8387-FFC3EE1F8862}.Release|x86.Build.0 = Release|x86
+		{DA61A1CE-FFB4-40F9-8D43-3A710A7C1049}.Debug|x86.ActiveCfg = Debug|x86
+		{DA61A1CE-FFB4-40F9-8D43-3A710A7C1049}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
