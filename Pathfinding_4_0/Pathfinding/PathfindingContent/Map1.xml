@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<XnaContent>
+  <Asset Type="PathfindingData.MapData">
+	  <NumberRows>10</NumberRows>
+	  <NumberColumns>10</NumberColumns>
+    <Start>4 1</Start>
+    <End>4 7</End>
+    <Bricks>
+	    2 1
+      5 5
+      6 5
+      5 6
+      5 7
+      1 7
+      2 7
+      6 2
+      6 3
+    </Bricks>
+    <Water>
+      2 0
+      2 2
+      4 2
+      4 3      
+      5 8
+      3 5
+      4 5
+      3 7
+    </Water>
+    <Stone>
+      9 8
+      7 8
+      8 8
+      3 6
+      7 1
+      8 1
+      7 2
+      8 2
+    </Stone>
+  </Asset>
+</XnaContent>
